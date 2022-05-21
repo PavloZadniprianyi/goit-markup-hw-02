@@ -1,6 +1,16 @@
+
+
 body {
-    background-color: #E5E5E5;
-    color:  #212121;
+    font-family: 'Roboto', sans-serif; 
+    color: #212121;
+}
+.logo {
+    font-family: "Ralewey"; sans-serif; 
+    color: tomato;  
+}
+
+.hero-title {
+    text-transform: uppercase;
 }
 
 /* колір основного тексту #212121 */
@@ -9,4 +19,6 @@ body {
 /* колір фону #E5E5E5 */
 /* сірий #757575 */
 /* акцент #2196F3 */
+/* background-color: #E5E5E5;
+    color:  #212121; */
 
